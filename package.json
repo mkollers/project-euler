@@ -1,0 +1,23 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "description": "solutions for project euler",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"./**/spec.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkollers/project-euler.git"
+  },
+  "author": "Markus Kollers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkollers/project-euler/issues"
+  },
+  "homepage": "https://github.com/mkollers/project-euler#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jasmine": "^2.4.1"
+  }
+}
