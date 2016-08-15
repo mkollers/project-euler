@@ -7,7 +7,7 @@ function execute() {
 }
 
 function isDivisible(n) {
-    for (var i = 20; i > 10; i--) {
+    for (var i = 19; i > 10; i--) {
         if (n % i !== 0) {
             return false;
         }
