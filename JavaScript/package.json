@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/mkollers/project-euler#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "jasmine": "^2.4.1"
+    "chai": "^4.2.0",
+    "jasmine": "^3.4.0",
+    "mocha": "^6.2.0"
   }
 }
