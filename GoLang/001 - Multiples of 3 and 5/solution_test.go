@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func Test_001_Multiples_of_3_and_5(t *testing.T) {
+func TestEuler001(t *testing.T) {
 	expected := 233168
 	result := execute001()
 
